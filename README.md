@@ -1,15 +1,15 @@
 # data-visualization-1
 Let's start learning data visualization step by step
 
-#see code file for more details everything is explained with comments there 
+# see code file for more details everything is explained with comments there 
 first step to data visualization in python is to import all therequired modules, for oure purpose the required modules are  
 
-# from numpy.random import randn
-# from scipy import stats
-# import matplotlib.pyplot as plt
-# import seaborn as sns
-# %matplotlib inline
-# import pandas as pd
+from numpy.random import randn
+from scipy import stats
+import matplotlib.pyplot as plt
+import seaborn as sns
+%matplotlib inline
+import pandas as pd
 
 write this on your python work space
 
